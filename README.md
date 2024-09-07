@@ -1,6 +1,6 @@
 # 🧪 Repoteste
 
-Bem-vindo ao **Repoteste**! Este é um projeto simples criado para explorar e experimentar funcionalidades do GitHub, como commits, branches, pull requests, e muito mais. Sinta-se à vontade para brincar com o código, quebrar coisas e aprender no processo!
+Bem-vindo ao **Repoteste**! Este é um repositório simples criado para explorar e experimentar funcionalidades do GitHub, como commits, branches, pull requests, e muito mais. Sinta-se à vontade para brincar com o código, quebrar coisas e aprender no processo!
 
 ## 📋 O que é isso?
 
@@ -39,7 +39,7 @@ Aqui está uma visão geral dos arquivos e diretórios presentes no repositório
 
     /
     ├── README.md       <- Este arquivo.
-    ├── .gitignore      <- Arquivo para ignorar itens desnecessários.
+    ├── .gitignore      <- Arquivo para ignorar itens desnecessários.(ainda será visto)
     └── src/            <- Código-fonte para suas experiências.
 
 ## 🛠️ Ferramentas e Tecnologias
